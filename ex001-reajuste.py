@@ -12,6 +12,6 @@ elif (a == 2):
     print(reajuste)
 elif (a == 3):
     reajuste = salario*0.0658 + salario
-    print("oi")
+    print(reajuste)
 else: 
     print("digite uma opção de reajuste válida!")
